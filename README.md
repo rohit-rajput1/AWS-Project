@@ -24,7 +24,7 @@
 6. **Apache 2 Configuration:**
    Configure Apache 2 on EC2 for handling HTTP requests, traffic routing, and security measures like access controls.
 
-[Worpress Deployment on AWS](/WordPress%20Website%20on%20AWS/WordPress%20Deployment.md)
+[**Worpress Deployment on AWS**](/WordPress%20Website%20on%20AWS/WordPress%20Deployment.md)
 
 1. **AWS Infrastructure Setup:**
    Provision an EC2 instance for WordPress, an Amazon RDS instance for the database, and configure security groups and key pairs.
